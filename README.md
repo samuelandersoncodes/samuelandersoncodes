@@ -3,6 +3,5 @@
  
 #### A Full Stack React and Django developer...
 #### Currently learning and contributing to a Nextjs project...
-[!Samuel Anderson´s GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelandersoncodes&show_icons=true&theme=transparent)
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelandersoncodes&show_icons=true&theme=transparent)](https://github.com/samuelandersoncodes/github-readme-stats)
 
