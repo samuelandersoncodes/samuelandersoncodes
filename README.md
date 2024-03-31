@@ -1,4 +1,7 @@
-### Hello 👋, Samuel Anderson here...
+### Hello 👋, Samuel Anderson here... <a href="https://www.linkedin.com/in/samuel-anderson-codes/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="100" height="30" />
+</a>
+
 
  
 #### A Full Stack Django and React developer.
