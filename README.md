@@ -1,5 +1,5 @@
 ### Hello 👋, Samuel Anderson here... <a href="https://www.linkedin.com/in/samuel-anderson-codes/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn3d.iconscout.com/3d/free/preview/free-linkedin-2950130-2447889.png?f=webp&h=700" alt="LinkedIn link"/>
+  <img src="https://cdn3d.iconscout.com/3d/free/preview/free-linkedin-2950130-2447889.png?f=webp&h=700" alt="LinkedIn link" width="50" height="55"/>
 </a>
 
 
