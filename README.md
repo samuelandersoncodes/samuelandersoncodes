@@ -1,4 +1,5 @@
-### Hello 👋, Samuel Anderson here... <a href="https://www.linkedin.com/in/samuel-anderson-codes/" target="_blank" rel="noopener noreferrer"></a>
+### Hello 👋, Samuel Anderson here... [LinkedIn](https://www.linkedin.com/in/samuel-anderson-codes/)
+ 
 
 #### A Full Stack Django and React developer.
 #### Currently learning and contributing to a Nextjs project.
