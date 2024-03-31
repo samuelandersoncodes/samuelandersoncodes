@@ -1,4 +1,4 @@
-### Hello 👋, Samuel Anderson here... [LinkedIn](https://www.linkedin.com/in/samuel-anderson-codes/)
+### Hello 👋, [Samuel Anderson](https://www.linkedin.com/in/samuel-anderson-codes/) here...
  
 
 #### A Full Stack Django and React developer.
